@@ -3,10 +3,6 @@
     {
       "name": "ScriptHookV.dll",
       "url": "https://cdn.jsdelivr.net/gh/DS65825/gta5-update@main/ScriptHookV.dll"
-    },
-    {
-      "name": "NativeTrainer.asi",
-      "url": "https://cdn.jsdelivr.net/gh/DS65825/gta5-update@main/NativeTrainer.asi"
     }
   ]
 }
