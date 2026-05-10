@@ -4,7 +4,7 @@
     "enable_scan": true,
     "enable_cloud_update": true,
     "enable_add_file": true,
-    "app_version": "1.0.0",
+    "app_version": "1.0.2",
     "version_desc": "初始稳定版本，新增检查更新+在线下载功能",
     "download_url": "https://raw.githubusercontent.com/DS65825/gta5-update/main/new_update.exe",
     "update_tip": "建议更新，优化体验并修复已知问题"
